@@ -75,7 +75,7 @@ fun Sample(
             Sain(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(250.dp)
+                    .weight(1f)
                     .border(
                         BorderStroke(
                             width = .5.dp,
